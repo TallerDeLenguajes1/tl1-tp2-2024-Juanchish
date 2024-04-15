@@ -6,7 +6,6 @@ realice un commit para agregar este archivo al repositorio.
 vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
 *ninguna, solo se agregó respuestas.txt al main
 
--En el Branch main se va a combinar (merge) ambos repositorios. Para esto, utilice
-el siguiente comando:
-*Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
-noto que se fusionaron ambas ramas, main con opcion_2
+-En el Branch main se va a combinar (merge) ambos repositorios. Luego utilice el comando gitk –all para ver los 
+cambios, ¿Qué nota?
+*noto que se fusionaron ambas ramas, main con opcion_2
